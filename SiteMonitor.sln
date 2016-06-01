@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpAgentManager", "HttpAgent\HttpAgentManager.csproj", "{3C62D9EA-5203-479F-80FC-A574486FFB38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{9F5C9431-A797-4143-B907-14A420E98D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpAgentManagerTests", "HttpAgentManagerTests\HttpAgentManagerTests.csproj", "{5DE56AFE-82A7-4880-9B11-774B31855858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C62D9EA-5203-479F-80FC-A574486FFB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C62D9EA-5203-479F-80FC-A574486FFB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C62D9EA-5203-479F-80FC-A574486FFB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C62D9EA-5203-479F-80FC-A574486FFB38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5C9431-A797-4143-B907-14A420E98D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5C9431-A797-4143-B907-14A420E98D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5C9431-A797-4143-B907-14A420E98D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5C9431-A797-4143-B907-14A420E98D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE56AFE-82A7-4880-9B11-774B31855858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE56AFE-82A7-4880-9B11-774B31855858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE56AFE-82A7-4880-9B11-774B31855858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE56AFE-82A7-4880-9B11-774B31855858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
